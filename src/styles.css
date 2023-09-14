@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+.Navbar {
+  display: flex;
+  margin-bottom: solid 20px;
+  align-items: center;
+  justify-content: space-evenly;
+  color: crimson;
+}
+
+.home {
+  padding-left: 20px;
+}
+
+.blog-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+
+.blog-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.blog-preview h3 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+}

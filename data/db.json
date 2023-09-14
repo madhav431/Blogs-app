@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "welcome to my first blog",
+      "body": "hey gang this is my first blog",
+      "author": "Madhav",
+      "id": 1
+    },
+    {
+      "title": "welcome to my first blog",
+      "body": "hey gang this is my first blog",
+      "author": "Nani",
+      "id": 2
+    },
+    {
+      "title": "welcome to my first blog",
+      "body": "hey gang this is my first blog",
+      "author": "Taruna",
+      "id": 3
+    }
+  ]
+}
