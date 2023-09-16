@@ -3,12 +3,6 @@
     {
       "title": "welcome to my first blog",
       "body": "hey gang this is my first blog",
-      "author": "Madhav",
-      "id": 1
-    },
-    {
-      "title": "welcome to my first blog",
-      "body": "hey gang this is my first blog",
       "author": "Nani",
       "id": 2
     },
@@ -17,6 +11,12 @@
       "body": "hey gang this is my first blog",
       "author": "Taruna",
       "id": 3
+    },
+    {
+      "title": "Hello techies",
+      "body": "Here is a simple blog",
+      "author": "Nani",
+      "id": 4
     }
   ]
 }
